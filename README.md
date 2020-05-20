@@ -1,1 +1,1 @@
-"# Udacity-TwitterData-Visualization" 
+# Udacity Twitter Data Visualization
